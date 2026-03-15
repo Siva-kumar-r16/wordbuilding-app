@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "2.4.0",
+  "versionCode": 18,
+  "versionName": "2.4.2",
   "notes": "Major Multiplayer Update\n\n• Matches now support 2–10 players\n• Improved lobby system\n• Better player synchronization\n• Performance improvements\n• Bug fixes",
   "downloadUrl": "https://word-building.netlify.app/app-release.apk"
 }
